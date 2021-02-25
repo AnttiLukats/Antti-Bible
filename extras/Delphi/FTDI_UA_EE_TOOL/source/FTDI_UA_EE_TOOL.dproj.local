@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.393,C:\daten\antti\delphi\FTDI_USEREEPROM\Unit2.dfm=C:\daten\antti\delphi\FTDI_USEREEPROM\About.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.999,C:\daten\antti\delphi\FTDI_USEREEPROM\FTDI_UA_EE_TOOL.dproj=C:\daten\antti\delphi\FTDI_USEREEPROM\D2XXDEMO.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.393,C:\daten\antti\delphi\FTDI_USEREEPROM\Unit2.pas=C:\daten\antti\delphi\FTDI_USEREEPROM\About.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.584,=C:\daten\antti\delphi\FTDI_USEREEPROM\Unit2.pas</Transaction>
+  </Transactions>
+</BorlandProject>

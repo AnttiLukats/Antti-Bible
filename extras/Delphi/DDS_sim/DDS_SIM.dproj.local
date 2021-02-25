@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.dfm,C:\prj\svn\sw\fm\DDS\DDS_SIM\DDS_SIM_MainForm.dfm=C:\Documents and Settings\Antti\My Documents\RAD Studio\Projects\Unit6.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.pas,C:\prj\svn\sw\fm\DDS\DDS_SIM\DDS_SIM_MainForm.pas=C:\Documents and Settings\Antti\My Documents\RAD Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.dproj,C:\prj\svn\sw\fm\DDS\DDS_SIM\DDS_SIM.dproj=C:\Documents and Settings\Antti\My Documents\RAD Studio\Projects\Project2.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
