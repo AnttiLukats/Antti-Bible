@@ -1,0 +1,1 @@
+charger adapter for Galaxy phone

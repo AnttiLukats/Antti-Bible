@@ -1,0 +1,1 @@
+smallest usb enclosure, no i/o out, microsd inside
