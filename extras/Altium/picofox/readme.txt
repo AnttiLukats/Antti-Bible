@@ -1,0 +1,1 @@
+picofox mini transmitter for ARDF competition, not completed

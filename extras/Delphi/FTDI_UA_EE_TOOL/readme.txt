@@ -1,0 +1,1 @@
+TEST tool only- mini readme when starting the program..
