@@ -1,0 +1,1 @@
+proto board mainly for TQFP packaged FPGA but could also be used for MCU's
