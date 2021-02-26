@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=Hub.SchDoc
+Record=SheetSymbol|SourceDocument=Hub.SchDoc|Designator=U_display|SchDesignator=U_display|FileName=display.SchDoc|SymbolType=Normal|RawFileName=display.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Hub.SchDoc|Designator=U_MCU|SchDesignator=U_MCU|FileName=MCU.SchDoc|SymbolType=Normal|RawFileName=MCU.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=MCU.SchDoc|Designator=U_SD|SchDesignator=U_SD|FileName=SD.SchDoc|SymbolType=Normal|RawFileName=SD.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=MCU.SchDoc|Designator=U_sdram|SchDesignator=U_sdram|FileName=sdram.SchDoc|SymbolType=Normal|RawFileName=sdram.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

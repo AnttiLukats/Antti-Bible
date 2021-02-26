@@ -1,0 +1,2 @@
+Record=TopLevelDocument|FileName=main.SchDoc
+Record=SheetSymbol|SourceDocument=main.SchDoc|Designator=U_Connectors|SchDesignator=U_Connectors|FileName=Connectors.SchDoc|SymbolType=Normal|RawFileName=Connectors.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

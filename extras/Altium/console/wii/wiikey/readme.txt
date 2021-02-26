@@ -1,0 +1,1 @@
+WII modchip WiiKey2, there was in the A3P0250 AVR based softcore and ODD emulation from SD card

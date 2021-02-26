@@ -1,0 +1,1 @@
+WII HDMI output adapter, there was small MCU on board executing a virtual machine emulating a cortex MCU from SPI flash, and there was update procedure over audio, to change screens resolutions and conversion parameters, the device had nice plastic enclosure and was sold for profit

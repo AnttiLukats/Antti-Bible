@@ -1,0 +1,1 @@
+USB to USB adapter with external 5V feed

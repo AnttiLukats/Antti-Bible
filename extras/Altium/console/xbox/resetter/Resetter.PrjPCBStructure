@@ -1,0 +1,2 @@
+Record=TopLevelDocument|FileName=main.SchDoc
+Record=FPGA_COMPONENT|BaseComponentDesignator=U1|DocumentName=main.SchDoc|LibraryReference=XC2C64-4VQ44C|SubProjectPath= |Configuration= |Description=CoolRunner-II, 1.8V, 64 Macrocell CPLD, 44-Pin VQFP, Commercial Grade|NexusDeviceId=XC2C64-4VQ44C|SubPartUniqueId1=YXGLNJSX|SubPartDocPath1=main.SchDoc|SubPartUniqueId2=LVEHOCGW|SubPartDocPath2=main.SchDoc|SubPartUniqueId3=TAVFTFQC|SubPartDocPath3=main.SchDoc|SubPartUniqueId4=TYFPVNWW|SubPartDocPath4=main.SchDoc

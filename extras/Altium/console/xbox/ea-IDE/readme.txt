@@ -1,0 +1,1 @@
+IDE middle man with Lattice XP FPGA and connection to Embedded Artist board
